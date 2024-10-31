@@ -1,0 +1,30 @@
+table,th,td {
+    border: 1px solid black;
+    background-color:green;
+}
+th{
+    font-weight: bold;
+}
+h1 {
+    color:rgb(127, 80, 57);
+    font-size: 25px;
+    font-family: sans-serif;
+}
+p {
+    color:rgb(41, 68, 112);
+    font-size: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    border:1px solid green;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    box-shadow: 4px 4px;
+}
+body{
+    background-image: url('https://www.worldatlas.com/upload/9e/9d/8a/chamonix-mont-blanc-resort-alps-france-iren-key.jpg');
+    background-color: #cccccc;
+}
